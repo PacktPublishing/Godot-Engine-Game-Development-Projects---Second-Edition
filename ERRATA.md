@@ -69,6 +69,8 @@ p. 99 - [TYPO] In the table of input actions, 'S' is listed for "up" and `W` for
 
 p. 110 - [TYPO] In the "Scene Setup" section, the object's **Collision/Layer** should be set to "items", not "collectibles".
 
+Setting up the AnimationPlayer - You need to set the play scrubber to 0, then you have to set the frame to 7, then click the keyframe icon, then you will see a track in which you can change Update Mode to Continuous.   Then you can set the play scrubber to 0.3, then set the frame to 10 and set Frame Coords to 10, then click the keyframe icon.
+
 ## Chapter 5
 
 p. 149 - [CLARIFICATION] "See the appendix" should instead refer to Chapter 7.
